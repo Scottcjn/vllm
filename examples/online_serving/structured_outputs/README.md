@@ -4,7 +4,7 @@ This script demonstrates various structured output capabilities of vLLM's OpenAI
 It can run individual constraint type or all of them.
 It supports both streaming responses and concurrent non-streaming requests.
 
-To use this example, you must start an vLLM server with any model of your choice.
+To use this example, you must start a vLLM server with any model of your choice.
 
 ```bash
 vllm serve Qwen/Qwen2.5-3B-Instruct

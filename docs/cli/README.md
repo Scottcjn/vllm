@@ -40,7 +40,7 @@ Check with --help for more options:
 # To list all groups
 vllm serve --help=listgroup
 
-# To view a argument group
+# To view an argument group
 vllm serve --help=ModelConfig
 
 # To view a single argument
